@@ -1,14 +1,9 @@
 # project1
 Demo project
 
-SravaniChittemsetty
-nagasravani1212@gmail.com
-IT
-
-
-# rvr&jc_it
-## rvr&jc_it
-### rvr&jc_it
-#### rvr&jc_it
-##### rvr&jc_it
-###### rvr&jc_it
+# SravaniChittemsetty
+## nagasravani1212@gmail.com
+### Y19IT019
+#### RVR&JC
+##### 8555804615
+###### Guntur
